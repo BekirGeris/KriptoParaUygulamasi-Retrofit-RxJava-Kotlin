@@ -9,7 +9,7 @@
     <TextView
         android:textColor="@android:color/white"
         android:layout_margin="5dp"
-        android:id="@+id/currency"
+        android:id="@+id/text_currency"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="30sp"
@@ -18,7 +18,7 @@
     <TextView
         android:textColor="@android:color/white"
         android:layout_margin="5dp"
-        android:id="@+id/price"
+        android:id="@+id/text_price"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="30sp"
